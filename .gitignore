@@ -1,1 +1,5 @@
 repos/*/
+book_pages/
+book_*.pdf
+out/
+trailer/
